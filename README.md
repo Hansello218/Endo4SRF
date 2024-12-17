@@ -10,6 +10,7 @@ Lining Sun, Zhaolei Jiang, and Peng Qi, Member, IEEE*
 ### Pipeline
 
 <img src="figfile/fig1.png" alt="Pipeline" width="600"/>
+
 ## News
 - [2024-12-05] Our paper has been accpetd by IEEE Journal of Biomedical and Health Informatics!
 - [2024-12-17] Code is coming soon!
