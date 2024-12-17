@@ -4,10 +4,10 @@ Lining Sun, Zhaolei Jiang, and Peng Qi, Member, IEEE*
 
 ### [[Paper](https://ieeexplore.ieee.org/document/10797692)]
 
-![setting.png](figfile/fig2.png)
-<img src="setting.png" width="500"/>
+<img src="figfile/fig2.png" alt="Setting" width="600"/>
+
 
 ### Pipeline
-![pipeline.png](figfile/fig1.png)
 
+<img src="figfile/fig1.png" alt="Pipeline" width="600"/>
 # Code is coming soon...
