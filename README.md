@@ -11,7 +11,7 @@ Abstract: *Monocular endoscope-based reconstruction of dynamic 3D surgical field
 
 ### Pipeline
 
-<img src="figfile/fig1.png" alt="Pipeline" width="1200"/>
+<img src="figfile/fig1.png" alt="Pipeline" width="900"/>
 
 ## News
 - [2024-12-05] Our paper has been accpetd by IEEE Journal of Biomedical and Health Informatics!
