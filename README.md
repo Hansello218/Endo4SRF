@@ -4,6 +4,8 @@ Lining Sun, Zhaolei Jiang, and Peng Qi, Member, IEEE*
 
 ### [[Paper](https://ieeexplore.ieee.org/document/10797692)]
 
-![pipeline.jpg](figfile/fig1.png)
+![setting.png](figfile/fig2.png)
+###Pipeline
+![pipeline.png](figfile/fig1.png)
 
 # Code is coming soon...
